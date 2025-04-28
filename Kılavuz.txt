@@ -1,0 +1,36 @@
+Kullanıcı Kılavuzu
+Adım 1 Giriş yapma
+Uygulama başladığında kullanıcı adı ve şifre bilgilerinizi girmeniz istenir.
+
+Giriş bilgilerinizi doğru girerseniz ana menüye yönlendirilirsiniz. Yanlış giriş yapıldığında hata mesajı alırsınız.
+
+Adım 2 Kitaplar Seçimi
+Kitaplar sekmesinde mevcut kitaplardan birini seçebilirsiniz.
+
+Seçtiğiniz kitap ile ilgili yorum yapabilir veya okuma listesine ekleyebilirsiniz.
+
+Adım 3 Yorum Yapma
+Bir kitap seçtikten sonra, Kitap Yorumla butonuna tıklayarak o kitaba yorum yapabilirsiniz.
+
+Yorum, kitabın altında görünür ve diğer kullanıcılar tarafından görülebilir.
+
+Adım 4 Kitap Okuma Listesine Ekleme
+Seçilen kitabı okuma listenize eklemek için Okuma Listesine Ekle butonuna tıklayın.
+
+Kitap, kullanıcıya ait okuma listesine eklenir.
+
+Adım 5 Çıkış Yapma
+Uygulamadan çıkmak için Çıkış butonunu tıklayarak tekrar giriş ekranına dönebilirsiniz.
+
+Teknik Detaylar
+Python  ve Tkinter kütüphanesini kullanarak GUI oluşturulmuştur.
+
+Nesne Tabanlı Programlama prensipleri kullanılmıştır
+
+Sınıflar Kitap, Kullanici, Yorum sınıfları tanımlandı.
+
+Metodlar Her sınıfın kendi metodları vardır. (örnek kitap_ekle, yorum_ekle).
+
+Nesneler Kitaplar, kullanıcılar ve yorumlar nesneler olarak tanımlanıp işlevsel hale getirilmiştir.
+
+Tkinter kullanılarak grafiksel arayüz oluşturulmuştur.
